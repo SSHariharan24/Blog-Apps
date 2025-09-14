@@ -77,6 +77,14 @@ declare module 'nuxt/schema' {
       cdnURL: string,
    },
 
+   cloudinary: {
+      cloudName: string,
+
+      apiKey: string,
+
+      apiSecret: string,
+   },
+
    nitro: {
       envPrefix: string,
    },
