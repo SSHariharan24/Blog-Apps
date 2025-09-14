@@ -1,0 +1,1 @@
+# Nuxt 3 Blog App\nRun `npm install` then `npm run dev`.\nThis project supports CRUD with local JSON storage.
