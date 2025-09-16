@@ -1,4 +1,4 @@
-# Nuxt 3 Blog App\nRun `npm install` then `npm run dev`.\nThis project supports CRUD with local JSON storage.
+# Nuxt 3 Blog App\nRun `npm install` then `npm run dev`.
 
 # blog-app
 A simple Nuxt.js Blog App to add, edit, delete, and list blog posts. Uses a local JSON file for data storage—no backend required. Built with Vue.js, HTML, CSS, and JavaScript to demonstrate CRUD operations in a fully frontend application.
